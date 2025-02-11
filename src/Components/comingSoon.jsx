@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "../Styles/comingSoon.css";
 
 const ComingSoon = () => {
